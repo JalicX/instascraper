@@ -1,3 +1,8 @@
+# Project status : Depricated
+Instagram-parsing with Selenium is a PITA because of wired image loading.
+Luckily there is a [project](https://github.com/instaloader/instaloader) that does exactly what I indended to to but better.
+So work on this Repo is paused.
+
 # Set Up this project
 
 ## On Windows 10 / 11
